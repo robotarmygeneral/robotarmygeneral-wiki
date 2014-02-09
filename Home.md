@@ -20,6 +20,7 @@ Welcome to the Robot Army General learning wiki. These resources are [CC0](http:
 
 * [[Math Browser]]
 * [[URL Shuffler]]
+* [[Task player]]
 
 ## Pages that need work
 
