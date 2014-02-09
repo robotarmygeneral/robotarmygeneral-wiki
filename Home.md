@@ -1,48 +1,13 @@
-Welcome to the Robot Army General learning wiki. These resources are [CC0](http://creativecommons.org/publicdomain/zero/1.0/). You can fork and modify any of these pages. If you make substantial improvements, we encourage you to pull request on our [GitHub page](https://github.com/robotarmygeneral/wiki).
+Welcome to the Robot Army General learning wiki. These resources are [CC0](http://creativecommons.org/publicdomain/zero/1.0/). You can fork and modify any of these pages. If you make substantial improvements, we encourage you to pull request on our [GitHub page](https://github.com/robotarmygeneral/wiki). More info at [[Help]].
 
-## Merged Learnstream content
+## Topic hubs
 
-* [[Learnstream]]
-* [[Design]]
-* [[Learning]]
-* [[Productivity]]
-* [[Khan Academy]]
-* [[Competition Response]]
-* [[Spaced Repetition and Memory]]
-* [[Heisig Method]]
-* [[Flipped Classroom]]
-* [[Help]]
-* [[Learnstream Soup]]: Stirred up SRS, video, text, and social in a cauldron. 
-* [[Learnstream Atomic]]: Introduced the idea of [[Knowledge Components]] and uses a system of lessons and exercises for students to learn and study material.
-* [[Learnstream Fruit]]: A more streamlined process built on top of Learnstream Atomic
-* [[Learnstream Plus]]: Social features with Google+
-* [[Learnstream Minis]]: More focused projects inspired by Learnstream
-* [[Research]]
-* [[Question Templates]]
-* [[Exercising With Learnstream]]
-* [[Quick Content Ideas]]
-* [[How to Pwn Course]]
-* [[Physics]]
-* [[State of Learnstream]]
-* [[Next Steps for Learnstream]]
-* [[Feedback]]
-* [[Meeting With Yong]]
-* [[Development Methodology]]
-* [[Web-based Chat Tech]]
-* [[Technical Resources]]
-* [[Big Questions]]
-* [[Education]]
-* [[Reading]]
-* [[Gamification]]
-* [[Flipped Classroom]]
-* [[Spaced Repetition and Memory]]
-* [[Heisig Method]]
-* [[Computerizing Math]]
-* [[Collaborative Learning]]
-* [[Alcumus]]
-* [[Andes Physics Tutor]]
-* [[Online Language Learning Communities]]
-* [[Polymath]]
+* [[Programming]]
+* [[Social media]]
+
+## Book summaries
+
+* [[Art of Agile Development]]
 * [[Use Your Head]]
 * [[How Children Fail]]
 * [[What Smart Students Know]]
@@ -50,39 +15,33 @@ Welcome to the Robot Army General learning wiki. These resources are [CC0](http:
 * [[Mindstorms]]
 * [[Accidental Genius]]
 * [[Study Hacks]]
+
+## Tools and ideas
+
+* [[Math Browser]]
+* [[URL Shuffler]]
+
+## Pages that need work
+
+* [[Design]]
+* [[Learning]]
+* [[Productivity]]
+* [[Spaced Repetition and Memory]]
+* [[Heisig Method]]
+* [[Flipped Classroom]]
+* [[Khan Academy]]
+* [[Research]]
+* [[How to Pwn Course]]
+* [[Education]]
+* [[Reading]]
+* [[Gamification]]
+* [[Computerizing Math]]
+* [[Collaborative Learning]]
+* [[Andes Physics Tutor]]
+* [[Online Language Learning Communities]]
+* [[Polymath]]
 * [[Teaching Critical Thinking]]
 * [[Serendipity and Information on the Web]]
-* [[Perfect Pitch]]
-* [[Marketing Strategy]]
-* [[Markets]]
-* [[Competition]]
-* [[Business Plan]]
 * [[Online Courses]]
-* [[URL Shuffler]]
-* [[Learntrack]]
-* [[CS Book for Teens]]
-* [[Language Learning RPG]]
-* [[Math Textbook]]
-* [[Markov Virtual Tutoring]]
-* [[Problem Solving Tool]]
-* [[Test-first Learning]]
-* [[TaskPlayer]]
-* [[UI Testing Suite]]
-* [[KitchenPal]]
-* [[Quigg]]
-* [[SocialHere]]
-* [[Closed Community Advertising]]
-* [[Math Competition Community]]
-* [[OneStop]] - web development with no middleman: hosting, version control, and IDE all in one place
-* [[CollabTube]] - an easy way to make a collaborative playlist for YouTube
-* [[MOOSE]]
-* [[Thought for Food]]
-* [[Tellmewhattodo]]
-* [[Scanning Club]]
-* [[Gosu Guides]]
-* [[GameTheory Blog]]
-* [[GosuCamp]]
-* [[Hire a Pro Gamer]] - This can be combined with a more generic "tech productivity consulting" idea
-* [[GamesOS]]
 * [[Shell Scripting]]
 
