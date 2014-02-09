@@ -1,0 +1,17 @@
+I think there is a new educational technology thing nearly every day. Also each one of these technologies "completely changes everything." But rarely is the question asked, is our children learning? Poor children.
+
+Given that we don't have a business plan though, we can't technically have competition.
+
+I was doing a bit of thinking about it and also talking to my friend Marko yesterday. It seems he would want to join us for the summer. But he wants to do something very ambitious. He suggested our setting goal as a national open "correspondence university". I said if we call it a "correspondence university," we're already screwed. 
+
+Here are some possible paths, and I'll try to be somewhat realistic:
+- Physics on LS is found to be kid tested, faculty approved, and we get some press about it. We have a strategy position when other universities wanting to join in on the fun. There is undoubtedly going to be a lot of money put into transitioning to blended and online learning, so it'll be something to consider if that happens. Keep in mind the timeline for this (seeing actual results in the next physics course) is at least 1 year. That means more than 365 complete technological revolutions in education.
+- Moving up the ranks at PLSC (the learning science research center that I'll be working with at CMU). Which really means "get them to use some new technology in a bunch of schools" since I doubt grad students are able to move up ranks. Seems more realistic but less exciting.
+- Partner with OpenStudy. Two things they would benefit from are structure for matching discussion with content and review cards. But I don't really know how it works to be like "hey company we want to give you this feature." Unless we do something of our own, embed some OpenStudy stuff in our site, and get that nice big logo on the front page to drive up traffic.
+- Partner with Khan Academy. KA has the money, drive, and TED talk to make big things happen. If we really blow their socks off with some new ideas, there might be a influential positions somewhere down the line, i.e., in a few years when there are some policy or cultural changes that make online learning more credible. The challenges are a) they aren't willing to do anything cool b) they want to hire an actual professional for said influential positions. 
+- Partner with Inigral. I met the CEO last week, and he seemed pretty accessible though he hasn't responded to my email. Inigral does the Facebook for Schools thing, so they may have a decent solution to forming online communities (specifically by closing them off to the unwashed masses who have not been accepted to Prestigious U). We would have a big value added to schools if we can demonstrate academic benefits. Again there's the problem with the strategy of trying to combine features. 
+- Partner with big name content providers. While many companies are starting to provide their own solutions, there are undoubtedly some who are struggling to stay relevant. We could try to find out which companies those are. Joseph Vaughan has a meeting with College Board to talk about something vague that might be related to us. 
+
+I think we have to answer the question of what our big, abstract goals are -- which may be different for each of us -- and then pursue a few options. 
+
+By the way, after the abysmal scores from the last mechanics exam, the department ought to be desperate for any potentially beneficial changes. The average exam score was 46. Can we double it? 

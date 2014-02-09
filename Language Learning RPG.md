@@ -1,0 +1,11 @@
+We know that there’s a) a large market for language learning, b) a gigantic market for games, and c) an increased understanding that games and education often go together rather than the other way around. I think that gaming offers a great way to learn languages because it’s fun, rewarding, and–most importantly–immersive. Immersion is cited more often than anything as the key to making the leap from struggling student to fluent bilingual. But this market is almost completely unrealized.
+ 
+I recently tried the DS game My Chinese Coach. As the IGN review indicates, it’s poorly presented, but I felt more drawn to playing the games than doing my flashcards for doing essentially the same thing. 
+ 
+I’ve also tried the more indirect route of playing a Chinese-based online game (Burst A Fever), but at that point I knew too little of the fundamentals to gain very much from it. Something worth trying again.
+ 
+Thus I present my idea for a Chinese-learning game. This would be best suited for a PC with tablet, DS, or possibly a Wii. 
+Immersion is immediate: you wake up suddenly in a village in China — no ordinary China but rather a land filled with magic and freedom of speech — and your primary goal is to figure out what the heck is going on. Unfortunately, you don’t speak anyone’s langauge. Worst yet, you discover the village is wrought with monsters, which is a major problem until you come across an ability to cast magic. Now it’s up to you to save these strange yellow folk!
+ 
+As they say, magic ain’t easy. Each spell requires learning a Chinese character and correct stroke order, which all must be executed quickly under the heat of battle to successfully cast a spell. When new spells are learned, they may be presented with some aspects of their origins (which happens to be something my teacher specializes in), very helpful in memorization in my experience. Particularly, spells may be categorized by radicals as they often are by elements (which is some extent the same thing — fire, water, earth are among the most common radicals).
+More generally, I believe that any game that forces immersion would be a great way to learn a language. Without the character-spell thing, a game could even work for any language by simply translating the script.

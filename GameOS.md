@@ -1,0 +1,1 @@
+A general operating system or application that controls the OS to boost user productivity by automatically implementing ideas such as SRS and timeboxing. See: http://www.alljapaneseallthetime.com/blog/dual-timeboxing
