@@ -1,0 +1,1 @@
+Welcome to the Robot Army General learning wiki. These resources are CC0 (link). You can fork and modify any subset of pages. If you make substantial improvements, we encourage you to pull request on our Github page (link).
