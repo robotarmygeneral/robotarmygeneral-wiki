@@ -46,4 +46,5 @@ Welcome to the Robot Army General learning wiki. These resources are [CC0](http:
 * [[Serendipity and Information on the Web]]
 * [[Online Courses]]
 * [[Shell Scripting]]
+* [[Personal informatics]]
 
