@@ -3,6 +3,7 @@ Welcome to the Robot Army General learning wiki. These resources are [CC0](http:
 ## Topic hubs
 
 * [[Programming]]
+* [[Data science]]
 * [[Social media]]
 
 ## Book summaries
