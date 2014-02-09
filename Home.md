@@ -1,4 +1,4 @@
-Welcome to the Robot Army General learning wiki. These resources are [CC0](http://creativecommons.org/publicdomain/zero/1.0/). You can fork and modify any of these pages. If you make substantial improvements, we encourage you to pull request on our [GitHub page](https://github.com/robotarmygeneral/wiki). More info at [[Help]].
+Welcome to the Robot Army General learning wiki. These resources are [CC0](http://creativecommons.org/publicdomain/zero/1.0/). You can fork and modify any of these pages. If you make substantial improvements, we encourage you to pull request on our [GitHub page](https://github.com/robotarmygeneral/wiki).
 
 ## Topic hubs
 
