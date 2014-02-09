@@ -28,3 +28,7 @@ Please let us know if there's a good way to browse markdown pages directly on ou
 
 1. Fork our [GitHub repository](https://github.com/robotarmygeneral/robotarmygeneral-wiki)
 2. Make changes (see View > Method 2 above)
+
+## More tips
+
+http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/
